@@ -1,0 +1,37 @@
+body {
+    font-family: 'Times New Roman';
+    background: #d6e6f5;
+    padding: 30px;
+}
+
+h2 {
+    color: #384f67;
+}
+
+#loginBox, #app {
+    background: rgb(247, 230, 230);
+    padding: 20px;
+    border-radius: 7px;
+    width: 250px;
+}
+
+textarea {
+    width: 110%;
+    height: 80px;
+}
+
+button {
+    margin-top: 8px;
+    padding: 7px 14px;
+    background: #3498db;
+    color: white;
+    border: thick;
+    border-radius: 5px;
+}
+
+.post {
+    background: #ecf0f1;
+    padding: 10px;
+    margin-top: 8px;
+    border-radius: 10px;
+}
